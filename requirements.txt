@@ -4,5 +4,7 @@ pandas
 plotly
 folium
 streamlit-folium
+streamlit-echarts
 requests
 openpyxl
+

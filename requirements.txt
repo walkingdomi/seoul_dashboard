@@ -1,5 +1,5 @@
 streamlit
-st-pages>=0.4.4
+st-pages
 pandas
 plotly
 folium

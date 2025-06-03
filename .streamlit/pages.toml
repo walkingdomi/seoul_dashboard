@@ -1,6 +1,6 @@
 
 [[pages]]
-path = "자치구대시보드.py"
+path = "자치구 대시보드.py"
 name = "자치구 대시보드"
 icon = "📊"
 

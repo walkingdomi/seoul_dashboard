@@ -5,12 +5,6 @@ import plotly.graph_objects as go
 from streamlit_echarts import st_echarts
 import requests
 from datetime import datetime 
-from st_pages import Page, show_pages
-
-show_pages([
-    Page("자치구대시보드.py", "자치구 대시보드", "📊"),
-    Page("pages/단위도서관대시보드.py", "개별 도서관 대시보드", "📚"),
-])
 
 st.set_page_config(page_title="서울시 도서관 대시보드", layout="wide")
 st.title("📊 서울시 자치구별 현황")

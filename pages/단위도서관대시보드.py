@@ -9,7 +9,7 @@ from math import radians, cos, sin, asin, sqrt
 
 # 페이지 설정
 st.set_page_config(page_title="서울시 공공도서관 대시보드", layout="wide")
-st.title("📚 서울시 단위도서관 별 현황")
+st.title("📚 서울시 개별도서관 별 현황")
 
 # 현재 달 (YYYY-MM)
 current_month = datetime.now().strftime('%Y-%m')

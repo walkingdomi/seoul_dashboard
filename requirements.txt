@@ -7,4 +7,3 @@ streamlit-folium
 streamlit-echarts
 requests
 openpyxl
-st-pages

@@ -6,5 +6,5 @@ icon = "📊"
 
 [[pages]]
 path = "pages/단위도서관대시보드.py"
-name = "단위 도서관 대시보드"
+name = "개별 도서관 대시보드"
 icon = "📚"
